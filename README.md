@@ -1,4 +1,4 @@
-# 100trap-mindash
+# 100trap-mindash 9:16.495
 TAS files for 100trap mindash
 
 Nanami Chiaki did 3 daves each in A58, A80, A85
